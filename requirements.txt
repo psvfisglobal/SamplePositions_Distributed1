@@ -2,5 +2,4 @@ numpy
 pandas
 matplotlib
 seaborn
-sqlalchemy
-unixODBC
+pyodbc==4.0.39
