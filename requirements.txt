@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 seaborn
-pyodbc==4.0.39
+pyodbc==4.0.34
