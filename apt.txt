@@ -1,2 +1,2 @@
 sudo apt unixodbc unixodbc-dev
-sudo apt-get update
+sudo apt update
