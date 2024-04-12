@@ -4,3 +4,4 @@ pyodbc
 matplotlib
 seaborn
 sqlalchemy
+libodbc.so.2
