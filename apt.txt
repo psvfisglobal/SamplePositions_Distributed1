@@ -1,3 +1,2 @@
 sudo apt unixodbc unixodbc-dev
-curl https://packages.microsoft.com/keys/microsoft.asc
-
+sudo apt update
