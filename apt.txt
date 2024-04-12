@@ -1,1 +1,1 @@
-sudo apt install unixodbc unixodbc-dev
+sudo apt unixodbc unixodbc-dev
